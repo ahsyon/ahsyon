@@ -1,4 +1,4 @@
-### Hi there 👋，I'm ahsyon
+### Hi 👋，I'm ahsyon
 
 ![ahsyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsyon&show_icons=true)
 
