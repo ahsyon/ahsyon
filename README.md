@@ -1,10 +1,10 @@
 ### Hi 👋，I'm ahsyon
 
 <a href="https://github.com/ahsyon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ahsyon" />
+  <img height="" align="center" src="https://github-readme-stats.vercel.app/api?username=ahsyon" />
 </a>
 <a href="https://github.com/ahsyon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsyon&layout=compact&langs_count=8&card_width=320" />
+  <img height="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsyon&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Languages and Tools
