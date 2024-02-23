@@ -2,6 +2,8 @@
 
 ![ahsyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsyon&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsyon)
+
 ### Social
 
 <a href = "https://discord.gg/XXXXXX"><img alt="Discord" src="https://img.shields.io/discord/XXXXXXXX?style=social&logo=discord&label=echosec"></a>
