@@ -1,11 +1,9 @@
 ### Hi 👋，I'm ahsyon
 
 <a href="https://github.com/ahsyon">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ahsyon" />
+  <img height=160 align="right" src="https://github-readme-stats.vercel.app/api?username=ahsyon" />
 </a>
-<a href="https://github.com/ahsyon">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsyon&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff) <!-- lang-->
